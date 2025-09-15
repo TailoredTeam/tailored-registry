@@ -1,0 +1,57 @@
+[
+  {
+    "name": "LinkedIn",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png",
+    "url": "https://www.linkedin.com/"
+  },
+  {
+    "name": "RocketJobs",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhM6S1oHPGMIZr5y8l4kFW71w1a7I4rR-ow&s",
+    "url": "https://rocketjobs.pl/"
+  },
+  {
+    "name": "Pracuj.pl",
+    "logoUrl": "https://play-lh.googleusercontent.com/aBMIv9Uz1-J6_A7dmByyh15xb7vNykOe7g5JHFHuDNs463R1y9j3YhhGTi_Y_Fe8ICLf=w240-h480-rw",
+    "url": "https://www.pracuj.pl/"
+  },
+  {
+    "name": "No Fluff Jobs",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_NoFluffJobs.png/250px-Logo_NoFluffJobs.png",
+    "url": "https://nofluffjobs.com/"
+  },
+  {
+    "name": "OLX",
+    "logoUrl": "https://seeklogo.com/images/O/olx-logo-20F1656D13-seeklogo.com.png",
+    "url": "https://www.olx.pl/"
+  },
+  {
+    "name": "JustJoinIT",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgCHrUyVZzFysdEif4vSNGOV1QixkdDtN5Q&s",
+    "url": "https://justjoin.it/"
+  },
+  {
+    "name": "Indeed",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz8Qi-G6jIHt6TmCOguWjOKGYYQPB1afpSQ&s",
+    "url": "https://www.indeed.com/"
+  },
+  {
+    "name": "Apple Careers",
+    "logoUrl": "https://tdutkowski.com/images/blog/historia-logo-apple.jpg",
+    "url": "https://jobs.apple.com/"
+  },
+  {
+    "name": "Microsoft Careers",
+    "logoUrl": "https://i.pinimg.com/736x/91/92/1c/91921cec4f8a8cbe3d09e596e0659d81.jpg",
+    "url": "https://jobs.careers.microsoft.com/"
+  },
+  {
+    "name": "Google Careers",
+    "logoUrl": "https://static.vecteezy.com/system/resources/previews/013/948/549/non_2x/google-logo-on-transparent-white-background-free-vector.jpg",
+    "url": "https://www.google.com/about/careers/applications/jobs"
+  },
+  {
+    "name": "Jobs.pl",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUdr1Jp6Z5tJDANXFmEH24GGxY2GD5YfZww&s",
+    "url": "https://www.jobs.pl/"
+  }
+]
